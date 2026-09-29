@@ -1,4 +1,5 @@
 ## Write your fullname
-John kenneth P. Lucero
-Ralph Damiel B. Loraez
+# John kenneth P. Lucero
+# John arvin G. Plaresan
+# Ralph Damiel B. Loraez
 # sample
