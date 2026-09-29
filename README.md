@@ -1,2 +1,1 @@
-## Write your fullname
-# sample
+## MARIANNE JOY GUBAN 
