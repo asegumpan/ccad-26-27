@@ -5,3 +5,4 @@
 # Nica B. Olvido
 #John Rey P. Regino
 #Rosa A.Perequin
+DOMINIC D MOTOS
