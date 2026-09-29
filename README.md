@@ -3,3 +3,4 @@
 # Ralph Damiel B. Loraez
 # Jive Miguel V. Dequito
 # Nica B. Olvido
+# John Miguel J. Gawal
