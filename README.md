@@ -8,3 +8,4 @@
 #John Rey P. Regino
 #Rosa A.Perequin
 #Jery A. Pequitpequit
+#Kyle Andrie M. Lumogdang
