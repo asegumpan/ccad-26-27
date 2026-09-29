@@ -1,4 +1,3 @@
-# GIAN BALDELOVAR
 ## Write your fullname
 # John kenneth P. Lucero
 # Ralph Damiel B. Loraez
@@ -6,3 +5,4 @@
 # Nica B. Olvido
 #John Rey P. Regino
 #Rosa A.Perequin
+DOMINIC D MOTOS
