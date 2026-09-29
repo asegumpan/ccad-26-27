@@ -5,4 +5,4 @@
 # Jive Miguel V. Dequito
 # Nica B. Olvido
 #John Rey P. Regino
-#Rosa A.Perequin
+#Rosa A. Perequin
