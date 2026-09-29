@@ -5,6 +5,7 @@
 # Jive Miguel V. Dequito
 # Nica B. Olvido
 # Princess Joy A. Paclibar
+# JohnMark L. Banquil
 #John Rey P. Regino
 #Rosa A.Perequin
 #Jery A. Pequitpequit
