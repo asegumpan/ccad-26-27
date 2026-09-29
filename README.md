@@ -6,3 +6,4 @@
 # Nica B. Olvido
 #John Rey P. Regino
 #Rosa A.Perequin
+# John Mark L. Banquil
