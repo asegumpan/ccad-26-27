@@ -7,3 +7,4 @@
 # Princess Joy A. Paclibar
 #John Rey P. Regino
 #Rosa A.Perequin
+#Jinrey S. Patriarca
