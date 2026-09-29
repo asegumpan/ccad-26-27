@@ -1,2 +1,2 @@
 ## Write your fullname
-# sample
+JohnMark L. Banquil
