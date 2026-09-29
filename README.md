@@ -4,6 +4,7 @@
 # Ralph Damiel B. Loraez
 # Jive Miguel V. Dequito
 # Nica B. Olvido
+# Jinrey S. Patriarca
 # Princess Joy A. Paclibar
 #John Rey P. Regino
 #Rosa A.Perequin
