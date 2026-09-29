@@ -1,1 +1,6 @@
 ## MARIANNE JOY GUBAN 
+## Write your fullname
+# John kenneth P. Lucero
+# Ralph Damiel B. Loraez
+# Jive Miguel V. Dequito
+# Nica B. Olvido
