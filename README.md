@@ -1,5 +1,6 @@
 # GIAN BALDELOVAR
 ## Write your fullname
+# Jinrey S. Patriarca
 # John kenneth P. Lucero
 # Ralph Damiel B. Loraez
 # Jive Miguel V. Dequito
