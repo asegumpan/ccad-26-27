@@ -3,4 +3,4 @@
 # Ralph Damiel B. Loraez
 # Jive Miguel V. Dequito
 # Nica B. Olvido
-#John Rey P. Regino
+# Ronalyn D. Pagad
